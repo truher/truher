@@ -10,7 +10,10 @@ Things I've been up to lately:
 * [FRC Analysis](https://github.com/truher/frc-analysis): an example of log analysis using Python.
 * [FRC Console](https://github.com/truher/console): a modular operator console design based on Arduino, with some examples of joysticks, buttons, absolute and incremental rotary encoders, and audio output.
 * [FRC CAN Dissector](https://github.com/truher/frc-can-dissector): a Lua plugin for Wireshark that decodes FRC CAN bus messages (e.g. motor controller commands, heartbeats, etc)
-* [FRC CAN Logger](https://github.com/truher/can-logger): a Teensy (Arduino) app that listens to CAN bus messages through a Waveshare tranceiver and writes them to SD.  Also a 
+* [FRC CAN Logger](https://github.com/truher/can-logger): a Teensy (Arduino) app that listens to CAN bus messages through a Waveshare tranceiver and writes them to SD.  Also a little bracket to hold the Teensy and transceiver.
+* [Swerve Sim](https://github.com/truher/swerve-sim): a simple simulation of swerve drive, using "perfect" forward kinematics.  This would be useful for navigational simulation.
+* [Radar](https://github.com/truher/radar): a driver station dashboard that shows robot-centric and field-centric views of a few kinds of target poses read from Network Tables.  It's an example of an NT4 app.
+* [Swervo](https://github.com/truher/swervo): low cost swerve drive trainer, using servos for driving and steering.
 
 Other folk I work with:
 * [FRC Team 100](https://github.com/team100): Woodside High School Robotics
