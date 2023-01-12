@@ -5,6 +5,7 @@ FRC stuff I've been up to lately:
   * Global pose estimation and simulation, using OpenCV and stereo cameras.
   * Detailed safety and sensitivity analysis of a bright monochromatic illuminator.
   * Electrical design for the illuminator.
+* [Optic Sim](https://github.com/truher/optic-sim): photon simulation of the vision illuminator/reflector/detector mentioned above, using CuPy to run millions of photons in reasonable time.
 * [FRC Tone](https://github.com/truher/frc-tone): a Java app for the Driver Station that produces AIM-9 targeting audible tones, intended for semi-autonomous driver feedback.
 * [FRC Logs](https://github.com/truher/frc-logs): a place to put RoboRIO logs recorded to USB by DataLogManager.
 * [FRC Analysis](https://github.com/truher/frc-analysis): an example of log analysis using Python.
