@@ -18,6 +18,7 @@ FRC stuff I've been up to lately:
 
 Other projects:
 
+* [Power logger](https://github.com/truher/power-logger): hardware and software for residential electric power measurement, using a Teensy and many CT coils.
 * [Rocket Instrument](https://github.com/truher/RocketInstrument): hardware and software for a logging accelerometer and pressure sensor for high-power model rocketry, based on the Sparkfun Artemis platform.
 * [Water](https://github.com/truher/water): hardware and software for domestic water consumption measurement, using a magnetic sensor and a conventional nutating meter.
 
